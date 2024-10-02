@@ -17,7 +17,7 @@ Note: ChatGPT can make mistakes. Check important info. ;)
 ## Hobbies
 
 - Photography – "I'm passionate about photography, especially landscape and urban photography."
-- eading – "I’m an avid reader, with a particular interest in science fiction and tech-related books."
+- Reading – "I’m an avid reader, with a particular interest in science fiction and tech-related books."
 - Learning New Languages – "I enjoy learning new languages and am currently working on improving my Spanish."
 - Volunteering – "I volunteer at local coding bootcamps, helping beginners learn the basics of software development."
 
